@@ -151,9 +151,7 @@ Some insights that can be derived from the dashboard include:
 
 # 📷 Dashboard Preview
 
-![Sales Insights Dashboard](Sales insight.png)
-
-*https://github.com/amulya-3108/Sales-Insights/blob/main/Sales%20insight.png*
+*![Sales Insights Dashboard](https://raw.githubusercontent.com/amuly-a-3108/Sales-Insights/main/Sales%20insight.png)*
 
 ---
 
